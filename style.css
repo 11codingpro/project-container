@@ -1,0 +1,15 @@
+.box {
+    background-color: #f4a261;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin: 5px 0;
+    border: 1px solid #264653;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+}
+.container
+{
+    border: 5px solid rgb(222, 235, 49);
+}
+
